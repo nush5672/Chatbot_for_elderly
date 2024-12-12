@@ -1,1 +1,2 @@
-# Chatbot_for_elderly(संगमbot)
+# Chatbot_for_elderly(संगमbot) 
+This chatbot for elderly people focuses on developing a highly interactive and intelligent assistant that integrates multiple functionalities, including speech recognition, text-to-speech conversion, weather forecasting, and reminder management. It ensures seamless user experience by fetching real-time data through APIs, managing Google Calendar events, and retrieving emergency contacts and news headlines. The system emphasizes accuracy, speed, and user convenience, making it a versatile tool for everyday tasks.
