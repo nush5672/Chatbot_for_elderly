@@ -1,0 +1,58 @@
+query,response
+how are you,I'm doing great! How can I assist you today?
+what is your name,I'm your helpful assistant.
+tell me a joke,Why don’t skeletons fight each other? They don’t have the guts!
+what is ai,AI stands for Artificial Intelligence. It's the simulation of human intelligence in machines.
+goodbye Goodbye! Have a great day ahead.
+can you help me,Of course! Let me know what you need help with.
+hello,Hi there! How can I assist you today?
+good morning,Good morning! How are you feeling today?
+i need help with something,Of course! What can I help you with?
+i was wondering how to make a video call,Video calls are a great way to stay connected! What device are you using? A phone or a computer?
+i'm on my phone,No problem! Do you have an app like Zoom or FaceTime installed?
+yes, I have Zoom,Perfect! I can guide you through setting up a Zoom call. First, open the Zoom app. Do you see the 'New Meeting' button?
+yes, I see it,Great! Tap 'New Meeting' to start, and then you can invite someone by sharing your meeting ID or sending them a link.
+got it thank you ,You're welcome! Let me know if you need help with anything else.
+i need help setting up a reminder for my medication,Sure! I can help you with that. What time do you need the reminder for?
+at 8 AM, Okay! I'll set a reminder for 8 AM every day. Is there anything else you'd like to set a reminder for?
+no, that’s all for now,Alright, I’ve set your reminder. Is there anything else you'd like to talk about?
+i feel a bit tired today,I’m sorry to hear that. How long have you been feeling this way? Maybe it’s time to take it easy for a bit.
+it’s been a couple of days,It might be a good idea to check with your doctor if it’s lasting that long. How about a warm drink? Some people find that relaxing.
+what kind of drink,A warm cup of herbal tea, like chamomile or peppermint, might help you feel better.
+i don’t have chamomile, only green tea,Green tea is a great option too! It has a calming effect. Would you like some tips on relaxation techniques?
+yes i’d love that,You can try deep breathing exercises. Breathe in slowly for a count of 4, hold for 4, and breathe out for 4. It’s great for calming the mind.
+i’ll try that, Thank you,You’re welcome! I hope it helps. Let me know how you’re feeling after trying it.
+i’ve been forgetting to take my pills.","I can help you set a reminder for that! What time should I remind you to take your medication?
+at 10 AM please,Got it! I’ll remind you every day at 10 AM. Is there anything else I can do for you?
+not right now thanks,Alright, take care! I’m here if you need anything.
+i miss my family,I understand how that feels. Would you like help setting up a video call to see them?
+i don’t know how to use video calls,No worries, I can help! Are you using a phone or a computer?
+a phone,Great! Do you have an app like Zoom or FaceTime installed on your phone?
+i have faceTime,Awesome! You can make a video call by opening FaceTime, tapping the 'plus' sign, and typing the name or phone number of the person you want to call.
+i see i’ll try that,Let me know how it goes! I’m sure your family will be happy to hear from you.
+what if they don’t answer,It happens sometimes! You can leave them a message or try again later. I can also help you send a text message if you'd like.
+i don’t know how to send a message,No problem! Just open the Messages app, tap the 'new message' icon, and type in the person’s name. Then, write your message and hit send.
+okay i’ll give that a try,I hope it helps you stay connected! Is there anything else you need help with?
+how do I send an email,Sending an email is easy! First, open your email app. Do you use Gmail or something else?
+i use Gmail,Perfect! To send an email, tap the 'compose' button, type the email address of the person you want to send it to, write your message, and then tap 'send.'
+i’m not sure where the compose button is,It’s usually at the bottom right of the screen, represented by a pencil icon. Can you see it?
+oh yes found it,Great! Now, go ahead and type your message and hit send when you're ready.
+its sent thank you,You’re welcome! You’re becoming an expert at this. Let me know if you need help with anything else.
+can you help me find my contacts,Sure! On your Gmail app, tap the 'menu' icon (three lines), then tap 'Contacts.' You should see your saved contacts there.
+i found them thanks again,I’m so glad to hear that! If you need more help, just ask.
+what can I do for fun,There are lots of fun things you can do! Do you like reading, puzzles, or maybe watching movies?
+i love reading,That’s wonderful! What type of books do you enjoy? Fiction, history, or maybe a mystery?
+i like mysteries,How about a classic detective novel? Agatha Christie is a great author for that!
+i have read a lot of her books already,Ah, I see! How about some contemporary mystery authors, like Louise Penny or Ruth Ware?
+i haven’t read them i’ll check them out,Great! I think you'll enjoy them. If you need help finding these books, I can help with that too.
+what’s on TV tonight,What kind of shows do you like? Drama, comedy, or maybe a documentary?
+i like comedies,How about a classic sitcom? Shows like 'The Golden Girls' or 'I Love Lucy' are always a good laugh.
+i love the golden girls,It’s a great show! I’m sure it’ll make you smile. Let me know if you want more suggestions.
+i need to clean my house,I can help you with that! What area would you like to start with: the living room, kitchen, or bathroom?
+let’s start with the living room,Alright! A quick tidy-up might include dusting the shelves, straightening the cushions, and vacuuming the floor.
+i’ll start dusting,Great choice! Once you're done with that, how about vacuuming the carpet?
+okay, i’ll do that next,Awesome! You’re making progress. Let me know if you need a break or help with anything else.
+what should I make for dinner,How about a vegetable stir-fry? It’s quick and healthy. Do you have any vegetables in your kitchen?
+i have carrots broccoli and onions,Perfect! You can stir-fry those with a little soy sauce and some garlic. Serve it over rice for a delicious meal.
+sounds tasty i’ll try that,I’m sure it will be! Enjoy your dinner, and let me know if you need help with anything else.
+
